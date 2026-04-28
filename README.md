@@ -1,4 +1,4 @@
-# Museu CLI
+# Exposição CLI
 
 Este projeto é uma aplicação de terminal em Python que desenha figuras geométricas em uma grade de texto. O usuário pode escolher entre retângulo, losango, elipse ou uma imagem composta que sobrepõe as três figuras.
 
